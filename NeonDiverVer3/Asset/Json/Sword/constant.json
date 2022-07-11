@@ -1,0 +1,15 @@
+{
+  "HoldPlace": "RightHand",
+
+  "CubeSize": {
+    "X": 6,
+    "Y": 1,
+    "Z": 1
+  },
+
+  "LocalPos": {
+    "X": 4,
+    "Y": 0,
+    "Z": 0
+  }
+}
