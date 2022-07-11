@@ -1,0 +1,10 @@
+{
+  "StartPos": {
+    "X": 0,
+    "Y": 0,
+    "Z": -20
+  },
+
+  "HitToRadius": 3,
+  "BumpHeight": 5
+}
