@@ -1,0 +1,57 @@
+{
+  "ScaleSize": 5,
+
+  "RunUpSpeed": 0.1,
+  "RunUpSpeedMax": 1.0,
+  "RunUpSpeedMin": 0.0,
+
+  "ResetSpeed": 0.3,
+
+  "VelocityScalar": 0.4,
+
+  "RunFastAttenuation": 1.0,
+  "LRRunFastAttenuation": 0.7,
+  "JumpAttenuation": 0.5,
+  "LRRunAttenuation": 0.8,
+  "BackRunAttenuation": 0.6,
+  "DiagonalFrontRunAttenuation": 0.6,
+  "DiagonalBackRunAttenuation": 0.3,
+
+  "LookBackSpeed": 15.0,
+
+  "AnimationChangeSpeed": 0.1,
+  "BecomeIdleSpeed": 0.05,
+
+  "AnimationSpeed": 0.5,
+  "AnimationSpeedRunFast": 1.0,
+  "AnimationSpeedAttack": 1.5,
+  "AnimationSpeedHitStop": 0.1,
+
+  "HitStopRenge": 12,
+
+  "CanChangeTime": {
+    "Combo01": 100,
+    "Combo02": 70,
+    "Combo03": 105
+  },
+
+  "CanRunTime": {
+    "Combo01": 40,
+    "Combo02": 55,
+    "Combo03": 60
+  },
+
+  "CameraLocalPos": {
+    "X": 0,
+    "Y": 7.5,
+    "Z": -15.0
+  },
+
+  "CameraLerpSpeed": 0.9,
+  "CameraLateFrame": 5,
+
+  "HitToRadius": 1.5,
+  "BumpHeight": 5,
+
+  "DebugWireFrameVertices": 50
+}

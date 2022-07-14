@@ -1,0 +1,21 @@
+{
+  "ScaleSize": 1.0,
+
+  "StartPos": {
+    "X": 0,
+    "Y": 0,
+    "Z": 90
+  },
+
+  "LookBackSpeed": 0.1,
+
+  "AnimationChangeSpeed": 1.0,
+  "AnimationSpeed": 1.0,
+  "AnimationSpeedDamage": 2.5,
+  "AnimationSpeedDead": 2.5,
+
+  "HitToRadius": 2.5,
+  "BumpHeight": 5,
+
+  "DebugWireFrameVertices": 50
+}

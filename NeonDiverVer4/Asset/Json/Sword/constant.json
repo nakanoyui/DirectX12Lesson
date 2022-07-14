@@ -1,0 +1,23 @@
+{
+  "HoldPlace": "RightHand",
+
+  "ScaleSize": 5.0,
+
+  "CubeSize": {
+    "X": 4,
+    "Y": 1,
+    "Z": 0.5
+  },
+
+  "LocalPos": {
+    "X": 4,
+    "Y": 0,
+    "Z": 0
+  },
+
+  "CanAttackTime": {
+    "Combo01": 5,
+    "Combo02": 5,
+    "Combo03": 30
+  }
+}
