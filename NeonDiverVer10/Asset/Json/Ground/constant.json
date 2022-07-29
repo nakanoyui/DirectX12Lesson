@@ -1,0 +1,25 @@
+{
+  "Component": {
+    "ModelComponent": null,
+    "TransformComponent": null
+  },
+  "FilePath": "Asset/Model/Ground/Ground.gltf",
+  "Name": "Ground",
+  "Position": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Rotation": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Scale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "Shader": "StandardShader",
+  "Tag": "Enviroment"
+}
