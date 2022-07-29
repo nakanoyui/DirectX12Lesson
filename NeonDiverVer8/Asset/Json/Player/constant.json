@@ -1,0 +1,83 @@
+{
+  "ScaleSize": 5,
+
+  "RunUpSpeed": 0.1,
+  "RunUpSpeedMax": 1.0,
+  "RunUpSpeedMin": 0.0,
+
+  "ResetSpeed": 0.3,
+
+  "VelocityScalar": 0.4,
+
+  "JumpPower": 0.1,
+  "JumpPowerDecrement": 0.01,
+
+  "RunFastAttenuation": 1.0,
+  "LRRunFastAttenuation": 0.7,
+  "JumpAttenuation": 0.5,
+  "LRRunAttenuation": 0.8,
+  "BackRunAttenuation": 0.6,
+  "DiagonalFrontRunAttenuation": 0.6,
+  "DiagonalBackRunAttenuation": 0.3,
+
+  "LookBackSpeed": 15.0,
+
+  "AnimationChangeSpeed": 0.1,
+  "BecomeIdleSpeed": 0.05,
+
+  "AnimationSpeed": 0.5,
+  "AnimationSpeedRunFast": 1.0,
+  "AnimationSpeedAttack": 1.5,
+  "AnimationSpeedHitStop": 0.1,
+  "AnimationSpeedKnockDown": 1.5,
+  "AnimationSpeedRise": 1.5,
+  "AnimationSpeedJump": 1.0,
+  "AnimationSpeedBackStep": 1.0,
+
+  "HitStopRenge": 12,
+
+  "CanChangeTime": {
+    "Combo01": 100,
+    "Combo02": 70,
+    "Combo03": 105,
+    "AirCombo01": 100,
+    "AirCombo02": 70,
+    "AirCombo03": 80
+  },
+
+  "CanRunTime": {
+    "Combo01": 55,
+    "Combo02": 65,
+    "Combo03": 70,
+    "AirCombo01": 55,
+    "AirCombo02": 65,
+    "AirCombo03": 70
+  },
+
+  "CameraLocalPos": {
+    "X": 0,
+    "Y": 7.5,
+    "Z": -15.0
+  },
+
+  "CameraLerpSpeed": 0.95,
+  "CameraLateFrame": 10,
+
+  "JustDodgeSpeed": 0.04,
+  "DissolveRateSpeed": 0.15,
+
+  "HitToRadius": 1.5,
+  "BumpHeight": 5,
+
+  "RayDir": {
+    "X": 0,
+    "Y": -1,
+    "Z": 0
+  },
+
+  "RayRange": 50,
+
+  "DebugWireFrameVertices": 50,
+
+  "LimAttenuation": 0.05
+}
