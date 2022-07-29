@@ -1,0 +1,70 @@
+{
+  "DefaultTexture": false,
+  "EmitteParticlePerSecpnd": 5,
+  "EndColor": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0
+  },
+  "EndForce": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0
+  },
+  "LaserTexture": true,
+  "MAX_LIFE": 180.0,
+  "ParticleCyclePerFrame": 0,
+  "ParticleNum": 2560.0,
+  "Position": {
+    "X": 0.0,
+    "Y": 5.0,
+    "Z": 0.0
+  },
+  "RandomMax": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0
+  },
+  "RandomMin": {
+    "X": -1.0,
+    "Y": 1.0,
+    "Z": -1.0
+  },
+  "Rotate": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0
+  },
+  "Scale": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0
+  },
+  "SizeByLifeTime": false,
+  "StartColor": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0
+  },
+  "StartForce": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0
+  },
+  "StartPosition": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0
+  },
+  "StartRotate": 0.0,
+  "StartScale": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0
+  },
+  "Velocity": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0
+  }
+}

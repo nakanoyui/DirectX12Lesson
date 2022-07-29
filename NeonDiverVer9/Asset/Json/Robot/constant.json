@@ -1,0 +1,50 @@
+{
+  "ScaleSize": 1.0,
+
+  "LHand": "LHand",
+  "RHand": "RHand",
+
+  "StartPos": {
+    "X": 0,
+    "Y": 0,
+    "Z": 130
+  },
+
+  "CubeSize": {
+    "X": 0.75,
+    "Y": 1.5,
+    "Z": 0.75
+  },
+
+  "LocalPos": {
+    "X": 0,
+    "Y": 1.25,
+    "Z": 0
+  },
+
+  "VelocityScalar": 0.3,
+
+  "AttackAttenuation": 0.75,
+
+  "LookBackSpeed": 0.1,
+
+  "AnimationChangeSpeed": 1.0,
+  "AnimationSpeed": 1.0,
+  "AnimationSpeedAttack": 1.5,
+  "AnimationSpeedDamage": 2.5,
+  "AnimationSpeedDead": 2.5,
+
+  "AnimationAttackStartTime": 27,
+  "AnimationAttackEndTime": 150,
+
+  "HitToRadius": 2.5,
+  "BumpHeight": 5,
+
+  "AttackRange": 15,
+  "SearchRange": 35,
+
+  "FlowTime": 230,
+  "AttackCoolTime": 240,
+
+  "DebugWireFrameVertices": 50
+}
