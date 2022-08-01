@@ -1,0 +1,33 @@
+{
+  "CSV": {
+    "StageData": "Asset/CSV/StageData.csv"
+  },
+
+  "Player": {
+    "Model": "Asset/Model/Player/Player.gltf"
+  },
+
+  "Sword": {
+    "Model": "Asset/Model/Sword/Sword.gltf"
+  },
+
+  "Robot": {
+    "Model": "Asset/Model/Robot/Robot.gltf"
+  },
+
+  "Ground": {
+    "Model": "Asset/Model/Ground/Ground.gltf"
+  },
+
+  "NeonBuilding": {
+    "Model": "Asset/Model/NeonBuilding/NeonBuilding.gltf"
+  },
+
+  "Texture": {
+    "Dissolve": "Asset/Texture/Dissolve/Scifi.png",
+    "Particle": {
+      "Default": "Asset/Texture/Particle/Particle.png",
+      "Laser": "Asset/Texture/Particle/Laser.png"
+    }
+  }
+}

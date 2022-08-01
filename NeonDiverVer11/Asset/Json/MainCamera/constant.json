@@ -1,0 +1,46 @@
+{
+  "AspectRatio": 1.7777777910232544,
+  "ClampAngleX": [
+    -45.0,
+    45.0
+  ],
+  "ClampAngleY": [
+    -45.0,
+    45.0
+  ],
+  "Component": {
+    "CameraComponent": null,
+    "TransformComponent": null
+  },
+  "Fov": 60.0,
+  "LocalGazePosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "MaxRange": 1000.0,
+  "MinRange": 0.009999999776482582,
+  "Name": "MainCamera",
+  "Position": [
+    0.0,
+    5.0,
+    50.0
+  ],
+  "Rotation": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Scale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "ScriptComponent": {},
+  "Tag": "Camera"
+}

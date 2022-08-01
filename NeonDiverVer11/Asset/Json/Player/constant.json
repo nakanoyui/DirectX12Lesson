@@ -1,0 +1,42 @@
+{
+  "Center": [
+    0.0,
+    5.0,
+    0.0
+  ],
+  "Color": [
+    0.0,
+    0.2916848659515381,
+    1.0
+  ],
+  "Component": {
+    "ModelComponent": null,
+    "RigidBodyComponent": null,
+    "SkinMeshRendererComponent": null,
+    "SphereColliderComponent": null,
+    "TransformComponent": null
+  },
+  "FilePath": "Asset/Model/Player/Player.gltf",
+  "Name": "Player",
+  "Position": [
+    0.0,
+    0.0,
+    25.0
+  ],
+  "Radius": 3.0,
+  "Rotation": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Scale": [
+    5.0,
+    5.0,
+    5.0
+  ],
+  "ScriptComponent": {
+    "PlayerControllerComponent": null
+  },
+  "SkinMeshRenderer": "SkinMeshShader",
+  "Tag": "Player"
+}

@@ -1,0 +1,43 @@
+{
+  "Center": [
+    0.0,
+    12.5,
+    0.0
+  ],
+  "Color": [
+    0.47058823704719543,
+    1.0,
+    0.0
+  ],
+  "Component": {
+    "BoxColliderComponent": null,
+    "ModelComponent": null,
+    "StandardRendererComponent": null,
+    "TransformComponent": null
+  },
+  "FilePath": "Asset/Model/NeonBuilding/NeonBuilding.gltf",
+  "Name": "NeonBuilding_6",
+  "Position": [
+    25.0,
+    0.0,
+    50.0
+  ],
+  "Rotation": [
+    0.0,
+    90.0,
+    0.0
+  ],
+  "Scale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "ScriptComponent": {},
+  "Size": [
+    25.0,
+    25.0,
+    25.0
+  ],
+  "StandardRenderer": "StandardShader",
+  "Tag": "Environment"
+}

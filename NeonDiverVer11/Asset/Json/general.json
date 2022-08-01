@@ -1,0 +1,24 @@
+{
+  "ScreenPos": {
+    "X": 0,
+    "Y": 180,
+    "Z": 0
+  },
+
+  "Component": {
+    "TransformComponent": null,
+    "ModelComponent": null,
+    "CameraComponent": null,
+    "SpriteRendererComponent": null,
+    "StandardRendererComponent": null,
+    "SkinMeshRendererComponent": null,
+    "SphereColliderComponent": null,
+    "BoxColliderComponent": null,
+    "ModelColliderComponent": null,
+    "RigidBodyComponent": null
+  },
+
+  "ScriptComponent": {
+    "PlayerControllerComponent": null
+  }
+}
